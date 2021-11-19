@@ -440,6 +440,9 @@ canvas {
     padding: 0 23px;
     width:390px;
   }
+  .navbar1{
+    width:390px;
+  }
   .navbar1 .logo a {
     color: white;
     font-size: 25px;

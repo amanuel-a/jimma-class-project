@@ -216,7 +216,7 @@ p{
     width: 100%;
     height: 100%;
     background-size:cover;
-    background-image:linear-gradient(to top, #020316 10%, #000000c7 61%),url(https://source.unsplash.com/900x1600/?girl);
+    background-image:linear-gradient(to top, #020316 10%, #000000c7 61%),url(https://source.unsplash.com/900x1600/?code);
     display: grid;
     grid-template-rows: 8% 45% 10% 12% 10%;
     overflow: hidden;
@@ -231,7 +231,7 @@ p{
       width: 100%;
       height: 100%;
       background-size:cover;
-      background-image:linear-gradient(to top, #020316 10%, #000000c7 61%),url(https://source.unsplash.com/900x1600/?girl);
+      background-image:linear-gradient(to top, #020316 10%, #000000c7 61%),url(https://source.unsplash.com/900x1600/?code);
       display: grid;
       grid-template-rows: 15% 40% 15% 12% 10%;
       overflow: hidden;
